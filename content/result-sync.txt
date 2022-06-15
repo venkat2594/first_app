@@ -1,0 +1,1 @@
+result fileHere is the result : Hello this is my first text file, Hello from seconds text file
